@@ -4,8 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: neuralworm@protonmail.com
 
-<!---
-neuralworm/neuralworm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 Just gettin started with Blender dev here!
