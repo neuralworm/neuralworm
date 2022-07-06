@@ -6,3 +6,6 @@
 
 
 Just gettin started with Blender dev here!
+
+
+I'm also into Hunt: Showdown, view my WIP site here: https://huntshowdown-neuralworm.vercel.app/
