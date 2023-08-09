@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @neuralworm, the webdev.
-Currently for hire for front-end projects/positions.
-- typescript - nextjs - svletekit
+- 👋 Hi, I’m @neuralworm (Jake Miller), the webdev.
+I speialize in front-end development and am currently open to prospective jobs.
+- typescript - nextjs - svletekit - expressjs - sql
