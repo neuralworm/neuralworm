@@ -1,3 +1,14 @@
-- 👋 Hi, I’m @neuralworm (Jake Miller), the webdev.
-I speialize in .NET development and am currently open to prospective jobs.
-- .NET/C# - typescript - nextjs - svletekit - expressjs - sql - supabase
+[Jake on bike](bike.gif?raw=true "Title")
+
+## about me
+
+My name is Jake.
+I'm a developer 💻
+I like 🏍️ and 🎮
+
+
+## what i use
+- typescript 
+- sveltekit
+- reactjs
+- c#/dotnet
