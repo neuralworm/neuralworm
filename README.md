@@ -1,4 +1,4 @@
-[Jake on bike](bike.gif?raw=true "Title")
+<img src="bike.gif" alt="Jake is riding a bike">
 
 ## about me
 
@@ -12,3 +12,9 @@ I like 🏍️ and 🎮
 - sveltekit
 - reactjs
 - c#/dotnet
+- tailwindcss
+- 3js
+- everything else 🧺
+
+## what i ride
+- Kawasaki Ninja 400
